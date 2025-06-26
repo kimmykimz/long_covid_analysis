@@ -1,4 +1,4 @@
-Long COVID Symptom Analysis (2022–2024)
+🏥 Long COVID Symptom Analysis (2022–2024)
 
 📊 Project Summary
 This project analyzes the long-term effects of COVID-19 using CDC survey data from 2022 to 2024. It focus on symptoms that limit daily activity and how these 
