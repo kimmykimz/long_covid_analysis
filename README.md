@@ -24,4 +24,5 @@ vary across age groups over the years.
 ---
 
 🔗 View notebook or download to explore the data, code, and charts!
-
+(https://nbviewer.org/github/kimmykimz/long_covid_analysis/blob/main/Long-Term%20COVID-19%20Symptoms%20Analysis%282022%20-%202024%29.ipynb)
+🔗 [View Full Jupyter Notebook on nbviewer](https://nbviewer.org/github/kimmykimz/long_covid_analysis/blob/main/Long-Term%20COVID-19%20Symptoms%20Analysis(2022%20-%202024).ipynb)
